@@ -1,0 +1,174 @@
+ls
+clera
+clear
+ls
+pwd
+whoami
+pwd]
+pwd
+clea
+clear
+pwd
+man man
+man l
+mal -l
+man -l
+man man
+man ls -l
+man man
+clear
+cleasr
+clear
+cleasr
+clear
+clea
+claser
+clear
+celasr
+cleas
+rcelasr
+cleasr
+caer
+clear
+celar
+claer
+clea
+clear
+cleas
+clea
+celast
+clear
+cela
+celar
+cleas
+clea
+clear
+celar
+clea
+rcela
+clear
+cela
+clear
+ls
+exit
+cd .ssh
+cat id_ed25519.pub 
+sudo cat id_ed25519.pub 
+cd ..
+ssh-keygen -t ed25519
+cd .ssh
+cat id_ed25519.pub 
+cd ..
+ls
+cd repogit
+ls 
+cd ..
+ls
+cd ..
+ls
+cd vagrant/
+ls
+cd repogit
+clear
+ls
+git clone git@github.com:leandiazz/utn-vagrant.git
+ls
+ssh list-keys
+clear
+ls
+git clone git@github.com:leandiazz/utn-vagrant.git
+cd utn-vagrant/
+cls
+clear
+ls
+ls -la
+history > history.txt
+git commit -am 'add history file'
+git config --global user.email "leandrodiaz042@gmail.com"
+git config --global user.email "leandrodiaz042@gmail.com"
+git config --global user.name "Leandro Diaz"
+git commit -am 'add history file'
+git add .
+git commit -am 'add history file'
+clear
+git push
+vagrant halt
+cd ../..
+vagrant halt
+exit
+cd .ssh
+ls -la
+clip > id_ed25519.pub 
+clear
+ls
+cat id_ed25519.pub 
+cd ..
+ls -la
+cd .ssh
+cat id_ed25519.pub 
+ls -la
+cd .ssh
+ls
+cat id_ed25519.pub
+clera
+clear
+ls
+ls -la
+cat .ssh
+ssh-keygen -t ed25519
+ls -la
+ls
+cat README 
+clear
+cat /proc/cpuinfo
+cat /proc/cpuinfo | grep proce
+exit
+ls
+cd repogit/
+ls
+cd TP_AySO/
+ls
+celar
+clear
+touch 'sudo tcpdump' > comando_dump_net.txt
+ls
+rm -rf 'sudo tcpdump' 
+ls
+cat comando_dump_net.txt 
+apropos 'dump traffic'
+apropos "dump traffic"
+man apropos "dump traffic"
+ls
+clear
+ls
+clear
+ls
+rm comando_dump_net.txt 
+ls
+clear
+apropos 'dump'
+apropos 'dump traffic'
+echo 'tcpdump' > comando_dump_net
+ls
+cat comando_dump_net 
+git add comando_dump_net 
+git status
+git commit -m "feat: add dump traffic command to capture and analize network"
+cat << FIN >> README.md
+Alumno: Leandro Diaz
+Division: 113
+Turno: Mañana
+FIN
+
+cat README.md 
+clear
+cat README.md 
+cat << FIN > README.md 
+# TP_AySO
+Alumno: Leandro Diaz
+Division: 113
+Turno: Mañana
+FIN
+
+git commit -am "feat: add student data to README.md"
+history -a $HOME/.bash_history
